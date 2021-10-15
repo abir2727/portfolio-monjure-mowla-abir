@@ -1,0 +1,117 @@
+p
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h3
+{
+    font-family: 'Sanchez', serif;
+    text-align: center;
+}
+
+h2
+{
+    font-family: 'Sanchez', serif;
+    text-align: left;
+    padding-left: 2rem;
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
+    color: white;
+}
+
+.card
+{
+    box-shadow: 0.1rem 0.2rem 0.4rem rgba(0, 0, 0, 0.699);
+}
+
+.card-body h3
+{
+    text-align: left;
+    color: white;
+}
+
+section .card:hover
+{
+    opacity: 0.5;
+}
+
+.nav-bg
+{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.logo
+{
+    font-family: 'Sanchez', serif;
+    font-size: 1rem;
+}
+
+.nav-buttons
+{
+    font-family: 'Sanchez', serif;
+    margin: 0rem 2.5rem;
+}
+
+.my-icon
+{
+    color: black;
+    background-color: white;
+    border-radius: 0.75rem;
+}
+
+.gallery
+{
+    margin: 1.25rem 0rem;
+}
+
+article h1, article h3
+{
+    padding: 9rem 0rem;
+    text-align: center;
+}
+
+.btn-bg-fb
+{
+    background-color: rgb(58, 4, 207);
+    border-color: rgb(58, 4, 207);
+    border-radius: 0.8rem;
+    color: white;
+}
+
+.btn-bg-fb:hover
+{
+    background-color: rgb(73, 10, 247);
+    border-color: rgb(73, 10, 247);
+    color: white;
+}
+
+.btn-bg-insta
+{
+    background-color: rgb(214, 13, 97);
+    border-color: rgb(214, 13, 97);
+    border-radius: 0.8rem;
+    color: white;
+}
+
+.btn-bg-insta:hover
+{
+    background-color: rgb(240, 34, 120);
+    border-color: rgb(240, 34, 120);
+    color: white;
+}
+
+.my-button:hover
+{
+    background-color: rgb(64, 167, 4);
+    border-color: rgb(64, 167, 4);
+    color: white;
+}
+
+hr
+{
+    border-top: 0.3rem solid rgb(0, 0, 0);
+}
+
+.border-dark {
+    border-color: #ffffff!important;
+}
